@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "139862909452",
+    "firebase_url": "https://scada-mini-default-rtdb.firebaseio.com",
+    "project_id": "scada-mini",
+    "storage_bucket": "scada-mini.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139862909452:android:b689395433797c1f984429",
+        "android_client_info": {
+          "package_name": "com.example.scada2_mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9q37B7c25ZOw3mPnFwfDTsfduQTfpoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139862909452:android:df025c4706b7a242984429",
+        "android_client_info": {
+          "package_name": "com.scada.scada4_mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9q37B7c25ZOw3mPnFwfDTsfduQTfpoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
